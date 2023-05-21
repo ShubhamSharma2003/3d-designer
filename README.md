@@ -5,7 +5,7 @@ Threejs 3d tshirt customisation Web app
 # Demo
 Try it here: https://tshirtdesigner.netlify.app/
 
-<img width="1352" alt="image" src="https://github.com/ShubhamSharma2003/3d-designer/assets/117969915/e6ca8f48-923c-4bb5-9d74-830ce41fa8f3">
+<img width="1373" alt="image" src="https://github.com/ShubhamSharma2003/3d-designer/assets/117969915/c3cc1825-b0b7-43ed-bb0f-0b7e26120166">
 
 ## Documentation
 
